@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="Armstrong_Quote">That\'s one small step for man, one giant leap for mankind!</string>
+    <string name="click_me">Click Me!</string>
+</resources>

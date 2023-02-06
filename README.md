@@ -11,6 +11,9 @@ Certain features in this app include:
 
 *Keep in mind that the extra features have been added purely for my own learning and knowledge in an attempt to have the button display randoms prompts whenever clicked
 
+Here is the walkthrough of the features(Just copy paste the .gif portion to view)
+<img src='https://i.imgur.com/4DcBAW0.gif' title='App_Demonstration' width='' alt='Video Walkthrough' />
+
 
 Challenges Faced:
 I faced several challenges at almost every step. I had Android Studio downloaded a long time ago but I had to get the latest version to fix issues that were arising such as the gradle build issues. Once my platform was complete I started to get all the basics done first such as UI and functionality of button. Going above and beyond I then attempted to make a transition between one activity to another through the button which required the use of the Intent class. The new activity page has another button which prints out the toast message. However, to change it up I wanted to randomly generate a couple of random messages so that each time you click, there is a new message associated with it. This was possible through creating a list and using the random class to make it happen. Finally git gave me major problems on my local machine and hence I had to use the terminal to access the different branches rather than using android studio in built functionality which I personally feel is more difficult to use.

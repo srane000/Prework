@@ -11,7 +11,7 @@ Certain features in this app include:
 
 *Keep in mind that the extra features have been added purely for my own learning and knowledge in an attempt to have the button display randoms prompts whenever clicked
 
-Here is the walkthrough of the features(Just copy paste the .gif portion to view)
+Here is the walkthrough of the features
 <img src='https://i.imgur.com/4DcBAW0.gif' title='App_Demonstration' width='' alt='Video Walkthrough' />
 
 

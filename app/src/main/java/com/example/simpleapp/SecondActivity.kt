@@ -7,7 +7,7 @@ import android.widget.Toast
 import java.util.Random
 
 class SecondActivity : AppCompatActivity() {
-    private val messages = listOf("Work today for a better tomorrow", "It seems like you may run into a little fortune today", "It seems like the weather is a bit chilly", "Hope you are having a good day")
+    private val messages = listOf("Life seems to be shining down on you!", "Money in some form is to come your way...", "The love of your life may be right next to you today!", "A promotion is in the works for you soon.")
     private val random = Random()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

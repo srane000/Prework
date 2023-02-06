@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Simple App</string>
-    <string name="Armstrong_Quote">That\'s one small step for man, one giant leap for mankind!</string>
     <string name="start_button">Start</string>
     <string name="click_me_button">Click Me!</string>
+    <string name="Title">Good Day</string>
+    <string name="hint_phrase">Press Start to Begin!</string>
 </resources>
